@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="elevate-labs-logo.jpg" alt="Elevate Labs Logo" width="250"/>
+</p>
 
 # Elevate-Labs-Final-Project-Customer-Lifetime-Value-Prediction
 Machine Learning project to predict Customer Lifetime Value (CLV) using Random Forest and XGBoost with customer segmentation and business insights.
